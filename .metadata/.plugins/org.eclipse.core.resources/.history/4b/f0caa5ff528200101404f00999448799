@@ -1,0 +1,11 @@
+package java;
+
+	public class javajava{
+	    public static void main(String[] args){
+	        System.out.println("Hello Java+");
+	        System.out.print("줄바꿈없이 출력");
+	        System.out.println("이어서 출력");
+	        
+	    }
+	}
+}

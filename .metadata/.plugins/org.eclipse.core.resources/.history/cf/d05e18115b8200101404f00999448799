@@ -1,0 +1,12 @@
+package shhhh;
+
+	public class Main{
+	    public static void main(String[] args){
+	        boolean javagoat = true;
+	        boolean Fishgoat = false;
+	        
+	        System.out.println("자바 재미있니?" + javagoat);
+	        System.out.println("자바 재미있니?" + );
+	    }
+	}
+

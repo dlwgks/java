@@ -1,0 +1,12 @@
+package shhhh;
+
+	public class Main{
+	    public static void main(String[] args){
+	        int age = 17;
+	        String name = "이지한";
+	        
+	        System.out.println("이름:" + name);
+	        System.out.println("나이:" + age);	        
+	    }
+	}
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;sec03.exam02.RustatementExample&apos; to &apos;RunStatementExample&apos;&#x0A;- Original project: &apos;chap01&apos;&#x0A;- Original element: &apos;sec03.exam02.RustatementExample&apos;&#x0A;- Renamed element: &apos;sec03.exam02.RunStatementExample&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;RustatementExample&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;sec03.exam02{RustatementExample.java[RustatementExample" matchStrategy="1" name="RunStatementExample" qualified="false" references="true" similarDeclarations="false" stamp="1755651575582" textual="false" version="1.0"/>
+</session>
